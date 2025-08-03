@@ -52,5 +52,5 @@ Thanks to open-source libraries: pygame, SpeechRecognition, Tkinter.
 
 📬 Contact
 Want to collaborate or suggest improvements?
-📧 Email: your.email@example.com
-🔗 LinkedIn Profile
+📧 Email: akashkumar@gamil.com
+🔗 LinkedIn Profile  https://www.linkedin.com/in/akash-kumar-5b7a74324/
