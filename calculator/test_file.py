@@ -1,0 +1,1 @@
+ entryField.delete(0,END)
